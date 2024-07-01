@@ -5,6 +5,6 @@
     "image-ref": "ostree-image-signed:docker://ghcr.io/veachtech/wr3kd-os",
     "image-tag": "stable",
     "image-branch": "stable",
-    "base-image-name": "kinoite",
+    "base-image-name": "bazzite",
     "fedora-version": "40"
   }
