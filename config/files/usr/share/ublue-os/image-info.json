@@ -1,0 +1,10 @@
+{
+    "image-name": "wr3kd-os",
+    "image-flavor": "nvidia",
+    "image-vendor": "ublue-os",
+    "image-ref": "ostree-image-signed:docker://ghcr.io/veachtech/wr3kd-os",
+    "image-tag": "stable",
+    "image-branch": "stable",
+    "base-image-name": "kinoite",
+    "fedora-version": "40"
+  }
